@@ -1,0 +1,160 @@
+{
+    "easy": [
+        {
+            "question": "What is the capital of France?",
+            "options": {
+                "1": "Madrid",
+                "2": "Paris",
+                "3": "Rome",
+                "4": "Berlin"
+            },
+            "answer": 2
+        },
+        {
+            "question": "How many days are there in a leap year?",
+            "options": {
+                "1": "365",
+                "2": "366",
+                "3": "364",
+                "4": "367"
+            },
+            "answer": 2
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": {
+                "1": "Venus",
+                "2": "Jupiter",
+                "3": "Mars",
+                "4": "Mercury"
+            },
+            "answer": 3
+        },
+        {
+            "question": "How many continents are there on Earth?",
+            "options": {
+                "1": "5",
+                "2": "6",
+                "3": "7",
+                "4": "8"
+            },
+            "answer": 3
+        },
+        {
+            "question": "Which language is primarily used to style web pages?",
+            "options": {
+                "1": "HTML",
+                "2": "Python",
+                "3": "CSS",
+                "4": "SQL"
+            },
+            "answer": 3
+        }
+    ],
+
+    "medium": [
+        {
+            "question": "Which element has the chemical symbol Fe?",
+            "options": {
+                "1": "Fluorine",
+                "2": "Iron",
+                "3": "Francium",
+                "4": "Zinc"
+            },
+            "answer": 2
+        },
+        {
+            "question": "Who wrote 1984?",
+            "options": {
+                "1": "George Orwell",
+                "2": "Aldous Huxley",
+                "3": "Ernest Hemingway",
+                "4": "J.R.R. Tolkien"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the time complexity of binary search on a sorted array?",
+            "options": {
+                "1": "O(n)",
+                "2": "O(n²)",
+                "3": "O(log n)",
+                "4": "O(1)"
+            },
+            "answer": 3
+        },
+        {
+            "question": "Which country has the largest land area in the world?",
+            "options": {
+                "1": "Canada",
+                "2": "China",
+                "3": "United States",
+                "4": "Russia"
+            },
+            "answer": 4
+        },
+        {
+            "question": "What does CPU stand for?",
+            "options": {
+                "1": "Central Processing Unit",
+                "2": "Computer Processing Utility",
+                "3": "Central Program Unit",
+                "4": "Core Processing Utility"
+            },
+            "answer": 1
+        }
+    ],
+
+    "hard": [
+        {
+            "question": "Which data structure is typically used to implement a priority queue efficiently?",
+            "options": {
+                "1": "Stack",
+                "2": "Binary Heap",
+                "3": "Linked List",
+                "4": "Hash Table"
+            },
+            "answer": 2
+        },
+        {
+            "question": "What is the approximate value of the mathematical constant e?",
+            "options": {
+                "1": "2.718",
+                "2": "3.142",
+                "3": "1.618",
+                "4": "2.414"
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which sorting algorithm has an average-case time complexity of O(n log n) but a worst-case complexity of O(n²)?",
+            "options": {
+                "1": "Merge Sort",
+                "2": "Heap Sort",
+                "3": "Quick Sort",
+                "4": "Counting Sort"
+            },
+            "answer": 3
+        },
+        {
+            "question": "In a relational database, which normal form eliminates partial functional dependencies?",
+            "options": {
+                "1": "1NF",
+                "2": "2NF",
+                "3": "3NF",
+                "4": "BCNF"
+            },
+            "answer": 2
+        },
+        {
+            "question": "Which theorem states that the sum of the squares of the legs of a right triangle equals the square of its hypotenuse?",
+            "options": {
+                "1": "Fermat's Last Theorem",
+                "2": "Bayes' Theorem",
+                "3": "Pythagorean Theorem",
+                "4": "Fundamental Theorem of Algebra"
+            },
+            "answer": 3
+        }
+    ]
+}
